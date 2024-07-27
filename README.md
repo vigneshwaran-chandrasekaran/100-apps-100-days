@@ -2,6 +2,12 @@
 
 | Day  | App                             | Link                                                 | Source                                         |
 | ---- | ------------------------------- | ---------------------------------------------------- | ---------------------------------------------- |
+| [19] | directus                        | <https://directus.io/>                               | <https://github.com/directus/directus>         |
+| [20] | Docuseal                        | <https://www.docuseal.co/>                           | <https://github.com/docusealco/docuseal>       |
+| [21] | Tamilpesu                       | <https://tamilpesu.us/en/>                           | <https://github.com/Ezhil-Language-Foundation> |
+| [22] | Librechat                       | <https://www.librechat.ai/>                          | <https://github.com/danny-avila/LibreChat>     |
+| [23] | ThingsBoard                     | <https://thingsboard.io/>                            | <https://github.com/thingsboard/thingsboard>   |
+| [24] | SuiteCRM                        | <https://suitecrm.com/>                              | <https://github.com/salesagility/SuiteCRM>     |
 | [25] | NASA Code A                     | <https://code.nasa.gov/>                             | <https://github.com/nasa/code-nasa-gov>        |
 | [26] | Socioboard                      | <http://www.socioboard.org/>                         | <https://github.com/socioboard/Socioboard-5.0> |
 | [27] | Mautic                          | <https://www.mautic.org/>                            | <https://github.com/mautic/mautic>             |
@@ -35,6 +41,12 @@
 | [55] | Scribus                         | <https://www.scribus.net/>                           |                                                |
 | [56] | Gimp                            | <https://www.gimp.org/>                              |                                                |
 
+[19]: https://www.facebook.com/share/p/c3rQm5WRrYR7Uk3Q/
+[20]: https://www.facebook.com/share/p/tmy3WZUGUPZJcyk9/
+[21]: https://www.facebook.com/share/p/Nozz7LFDJMVtQABR/
+[22]: https://www.facebook.com/share/p/QbgDTsS4M9iYrRmD/
+[23]: https://www.facebook.com/share/p/nPrWuQSBnu3k4xns/
+[24]: https://www.facebook.com/share/p/LbCXa7dcRRQUF52r/
 [25]: https://www.facebook.com/share/p/THUQ7oNpjBtGyQPo/
 [26]: https://www.facebook.com/share/p/p4Q53mTar68SoyJ7/
 [27]: https://www.facebook.com/share/p/XU2bZ3eysMbABsJX/
