@@ -2,7 +2,13 @@
 
 | Day  | App                             | Link                                                 | Source                                   |
 | ---- | ------------------------------- | ---------------------------------------------------- | ---------------------------------------- |
-| 36   | Tamil Fonts                     | [tamilfonts]                                         | [neechalkaran]                           |
+| [33] | Dolibarr ERP - CRM              | <https://www.dolistore.com/en/>                      | <https://github.com/Dolibarr/dolibarr>   |
+| [34] | ExifCleaner                     | <https://exifcleaner.com/>                           |                                          |
+| [35] | keepass                         | <https://keepass.info/>                              |                                          |
+| [36] | Tamil Fonts                     | [tamilfonts]                                         | [neechalkaran]                           |
+| [37] | streamlabs                      | <https://streamlabs.com/>                            | <https://github.com/stream-labs/desktop> |
+| [38] | seopanel                        | <https://www.seopanel.org/>                          |                                          |
+| [39] | listmonk                        | <https://listmonk.app/>                              | [listmonk]                               |
 | [40] | Typebot                         | <https://typebot.io/>                                |                                          |
 | [41] | ShareX                          | <https://getsharex.com/>                             | <https://github.com/ShareX/ShareX>       |
 | [42] | Thiral                          | <https://thiral.in/>                                 |                                          |
@@ -21,6 +27,14 @@
 | [55] | Scribus                         | <https://www.scribus.net/>                           |                                          |
 | [56] | Gimp                            | <https://www.gimp.org/>                              |                                          |
 
+[33]: https://www.facebook.com/share/p/fdnzSs7XcHuF2Zu7/
+[34]: https://www.facebook.com/share/p/NoKiVZeDMGYbjyQ3/
+[35]: https://www.facebook.com/share/p/q5K3EvFpcLhS59cP/
+[36]: https://www.facebook.com/share/p/z1QFvXTKjbWPM6vM/
+[37]: https://www.facebook.com/share/p/hEvmmcBm3VG6oRmq/
+[38]: https://www.facebook.com/selva.murali/posts/pfbid02oMPLaP9bcuWmoHKF2yzcMRFKDekRUNPXx3UZ47E5dp5eu8oANWyoadcoonBWdxWFl
+[39]: https://www.facebook.com/selva.murali/posts/pfbid0ujPczF6CND7mrQiDYmphmTUfGkhzpD95qFzHvCSNaLJuwMUu2aFc13JCU5cPXEbgl
+[listmonk]: https://github.com/knadh/listmonk
 [40]: https://www.facebook.com/selva.murali/posts/pfbid02p32bfUqawMRAs2nUzjJ4wGG4AEdNJPPGrREtfswWPzqmGiPQL35FDQUDWh5Ut22Jl
 [41]: https://www.facebook.com/share/p/3ofnSxDGFVSNu9Jw/
 [PyLivestream]: https://github.com/scivision/PyLivestream
