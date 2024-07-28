@@ -2,6 +2,13 @@
 
 | Day  | App                             | Link                                                 | Source                                           |
 | ---- | ------------------------------- | ---------------------------------------------------- | ------------------------------------------------ |
+| [10] | n8n                             | <https://n8n.io/>                                    | <https://github.com/n8n-io/n8n>                  |
+| [11] | Answer                          | <https://answer.apache.org/>                         | <https://github.com/apache/incubator-answer>     |
+| [12] | Bagisto                         | <https://bagisto.com/en/>                            | <https://github.com/bagisto>                     |
+| [13] | Google Looker studio            | <https://lookerstudio.google.com/u/0/>               |                                                  |
+| [14] | AdGuard Ad Blocker              | <https://adguard.com/en/welcome.html>                |                                                  |
+| [15] | Youtube video downloader        | <https://ytd.mstdn.social/>                          | <https://github.com/Rudloff/alltube>             |
+| [16] | clickhouse Analytical database  | <https://clickhouse.com/>                            | <https://github.com/ClickHouse/ClickHouse>       |
 | [17] | Botpress                        | <https://botpress.com/>                              | <https://github.com/botpress/botpress>           |
 | [18] | Change Detection                | <https://changedetection.io/>                        | <https://github.com/dgtlmoon/changedetection.io> |
 | [19] | directus                        | <https://directus.io/>                               | <https://github.com/directus/directus>           |
@@ -43,6 +50,13 @@
 | [55] | Scribus                         | <https://www.scribus.net/>                           |                                                  |
 | [56] | Gimp                            | <https://www.gimp.org/>                              |                                                  |
 
+[10]: https://www.facebook.com/share/p/62mady3QBK35ygTC/
+[11]: https://www.facebook.com/selva.murali/posts/pfbid024QQucy3EGxHaE8p9zVyqKXq47iipPUKu6kWNTUzNaf2aPDJWozjiwTThfw4VcRuGl
+[12]: https://www.facebook.com/selva.murali/posts/pfbid0JiJT2GAnPSE3WPGUJiYa5Ed1fWM9N5p8p1CYv9w7HbncQka5Fv3AfWFKbzi4TA2bl
+[13]: https://www.facebook.com/share/p/VMduEwBCFrJYuyrv/
+[14]: https://www.facebook.com/selva.murali/posts/pfbid0GxQesB14De6khdfVjZL7FTvTuxi2WKRqzPyZsEyWHt3jh5RE4aXHVV6XuHmnHL8Jl
+[15]: https://www.facebook.com/share/p/tNZCo7r4h74GXchh/
+[16]: https://www.facebook.com/share/p/tNZCo7r4h74GXchh/
 [17]: https://www.facebook.com/share/p/48PEh4EiqpEiYkTn/
 [18]: https://www.facebook.com/share/p/zGvWVPg245fBT4fT/
 [19]: https://www.facebook.com/share/p/c3rQm5WRrYR7Uk3Q/
