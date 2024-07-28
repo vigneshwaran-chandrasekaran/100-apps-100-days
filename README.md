@@ -1,7 +1,13 @@
 ## 100 Apps 100 Days
 
+Author [Selva Murali]
+
 | Day  | App                             | Link                                                 | Source                                           |
 | ---- | ------------------------------- | ---------------------------------------------------- | ------------------------------------------------ |
+| [1]  | SerpBear                        | <https://docs.serpbear.com/>                         |                                                  |
+| [2]  | Appsmith                        | <https://www.appsmith.com/>                          | <https://github.com/appsmithorg/appsmith>        |
+| [3]  | Baserow                         | <https://baserow.io/>                                | <https://github.com/bram2w/baserow>              |
+| [4]  | Chatwoot                        | <https://www.chatwoot.com/>                          | <https://github.com/chatwoot/chatwoot>           |
 | [5]  | nodeRed                         | <https://nodered.org/>                               | <https://github.com/node-red>                    |
 | [6]  | Activepieces                    | <https://www.activepieces.com/>                      | <https://github.com/activepieces/activepieces>   |
 | [7]  | Rocket Chat                     | <https://www.rocket.chat/>                           | <https://github.com/RocketChat/Rocket.Chat>      |
@@ -55,6 +61,11 @@
 | [55] | Scribus                         | <https://www.scribus.net/>                           |                                                  |
 | [56] | Gimp                            | <https://www.gimp.org/>                              |                                                  |
 
+[Selva Murali]:https://www.facebook.com/selva.murali
+[1]: https://www.facebook.com/share/p/3CZW2Cqc4Xks9Qym/
+[2]: https://www.facebook.com/share/p/6eyzLmN8ggXTJUAk/
+[3]: https://www.facebook.com/share/p/4dVsWUqsRcz4rVQR/
+[4]: https://www.facebook.com/share/p/7zpCJS1EvFEg6KZX/
 [5]: https://www.facebook.com/share/p/z66PwsMyg7Qhn5WB/
 [6]: https://www.facebook.com/share/p/rJVjDmChWhpvhXg5/
 [7]: https://www.facebook.com/share/p/9emqLuudbEp7mkEp/
