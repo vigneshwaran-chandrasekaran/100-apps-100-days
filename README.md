@@ -1,46 +1,50 @@
 ## 100 Apps 100 Days
 
-| Day  | App                             | Link                                                 | Source                                         |
-| ---- | ------------------------------- | ---------------------------------------------------- | ---------------------------------------------- |
-| [19] | directus                        | <https://directus.io/>                               | <https://github.com/directus/directus>         |
-| [20] | Docuseal                        | <https://www.docuseal.co/>                           | <https://github.com/docusealco/docuseal>       |
-| [21] | Tamilpesu                       | <https://tamilpesu.us/en/>                           | <https://github.com/Ezhil-Language-Foundation> |
-| [22] | Librechat                       | <https://www.librechat.ai/>                          | <https://github.com/danny-avila/LibreChat>     |
-| [23] | ThingsBoard                     | <https://thingsboard.io/>                            | <https://github.com/thingsboard/thingsboard>   |
-| [24] | SuiteCRM                        | <https://suitecrm.com/>                              | <https://github.com/salesagility/SuiteCRM>     |
-| [25] | NASA Code A                     | <https://code.nasa.gov/>                             | <https://github.com/nasa/code-nasa-gov>        |
-| [26] | Socioboard                      | <http://www.socioboard.org/>                         | <https://github.com/socioboard/Socioboard-5.0> |
-| [27] | Mautic                          | <https://www.mautic.org/>                            | <https://github.com/mautic/mautic>             |
-| [28] | OBS Studio                      | <https://obsproject.com/>                            | <https://github.com/obsproject/obs-studio>     |
-| [29] | SubtitleEdit                    | <https://www.nikse.dk/subtitleedit>                  | <https://github.com/SubtitleEdit>              |
-| [30] | ODOO ERP                        | <https://www.odoo.com/>                              | <https://github.com/odoo/odoo>                 |
-| [31] | Ampache                         | <https://ampache.org/>                               | <https://github.com/ampache/ampache>           |
-| [32] | Audacity                        | <https://www.audacityteam.org/>                      | <https://github.com/audacity>                  |
-| [33] | Dolibarr ERP - CRM              | <https://www.dolistore.com/en/>                      | <https://github.com/Dolibarr/dolibarr>         |
-| [34] | ExifCleaner                     | <https://exifcleaner.com/>                           |                                                |
-| [35] | keepass                         | <https://keepass.info/>                              |                                                |
-| [36] | Tamil Fonts                     | [tamilfonts]                                         | [neechalkaran]                                 |
-| [37] | streamlabs                      | <https://streamlabs.com/>                            | <https://github.com/stream-labs/desktop>       |
-| [38] | seopanel                        | <https://www.seopanel.org/>                          |                                                |
-| [39] | listmonk                        | <https://listmonk.app/>                              | [listmonk]                                     |
-| [40] | Typebot                         | <https://typebot.io/>                                |                                                |
-| [41] | ShareX                          | <https://getsharex.com/>                             | <https://github.com/ShareX/ShareX>             |
-| [42] | Thiral                          | <https://thiral.in/>                                 |                                                |
-| [43] | Label Studio                    | <https://labelstud.io/>                              | [label-studio]                                 |
-| [44] | Google App Script               | <https://www.google.com/script/start/>               | [google-scripts]                               |
-| [45] | PyLivestream                    |                                                      | [PyLivestream]                                 |
-| [46] | data.gov.in                     | <https://www.data.gov.in/>                           |                                                |
-| [47] | Orange HRM                      | <https://www.orangehrm.com/>                         | <https://github.com/orangehrm/orangehrm>       |
-| [48] | UNA Community Management System | <https://unacms.com/>                                | <https://github.com/unacms/una>                |
-| [49] | Faveo Helpdesk                  | <https://www.faveohelpdesk.com/>                     | [faveo-helpdesk]                               |
-| [50] | WordPress                       | <https://wordpress.com/>                             | [Wordpress]                                    |
-| [51] | Siberiancms                     | <https://www.siberiancms.com>                        | [Siberian]                                     |
-| [52] | Google sheets                   | <https://zapier.com/blog/best-google-sheets-addons/> |                                                |
-| [53] | Feng Office                     | <https://www.fengoffice.com/>                        | [fengoffice]                                   |
-| [54] | InkScape                        | <https://inkscape.org/>                              |                                                |
-| [55] | Scribus                         | <https://www.scribus.net/>                           |                                                |
-| [56] | Gimp                            | <https://www.gimp.org/>                              |                                                |
+| Day  | App                             | Link                                                 | Source                                           |
+| ---- | ------------------------------- | ---------------------------------------------------- | ------------------------------------------------ |
+| [17] | Botpress                        | <https://botpress.com/>                              | <https://github.com/botpress/botpress>           |
+| [18] | Change Detection                | <https://changedetection.io/>                        | <https://github.com/dgtlmoon/changedetection.io> |
+| [19] | directus                        | <https://directus.io/>                               | <https://github.com/directus/directus>           |
+| [20] | Docuseal                        | <https://www.docuseal.co/>                           | <https://github.com/docusealco/docuseal>         |
+| [21] | Tamilpesu                       | <https://tamilpesu.us/en/>                           | <https://github.com/Ezhil-Language-Foundation>   |
+| [22] | Librechat                       | <https://www.librechat.ai/>                          | <https://github.com/danny-avila/LibreChat>       |
+| [23] | ThingsBoard                     | <https://thingsboard.io/>                            | <https://github.com/thingsboard/thingsboard>     |
+| [24] | SuiteCRM                        | <https://suitecrm.com/>                              | <https://github.com/salesagility/SuiteCRM>       |
+| [25] | NASA Code A                     | <https://code.nasa.gov/>                             | <https://github.com/nasa/code-nasa-gov>          |
+| [26] | Socioboard                      | <http://www.socioboard.org/>                         | <https://github.com/socioboard/Socioboard-5.0>   |
+| [27] | Mautic                          | <https://www.mautic.org/>                            | <https://github.com/mautic/mautic>               |
+| [28] | OBS Studio                      | <https://obsproject.com/>                            | <https://github.com/obsproject/obs-studio>       |
+| [29] | SubtitleEdit                    | <https://www.nikse.dk/subtitleedit>                  | <https://github.com/SubtitleEdit>                |
+| [30] | ODOO ERP                        | <https://www.odoo.com/>                              | <https://github.com/odoo/odoo>                   |
+| [31] | Ampache                         | <https://ampache.org/>                               | <https://github.com/ampache/ampache>             |
+| [32] | Audacity                        | <https://www.audacityteam.org/>                      | <https://github.com/audacity>                    |
+| [33] | Dolibarr ERP - CRM              | <https://www.dolistore.com/en/>                      | <https://github.com/Dolibarr/dolibarr>           |
+| [34] | ExifCleaner                     | <https://exifcleaner.com/>                           |                                                  |
+| [35] | keepass                         | <https://keepass.info/>                              |                                                  |
+| [36] | Tamil Fonts                     | [tamilfonts]                                         | [neechalkaran]                                   |
+| [37] | streamlabs                      | <https://streamlabs.com/>                            | <https://github.com/stream-labs/desktop>         |
+| [38] | seopanel                        | <https://www.seopanel.org/>                          |                                                  |
+| [39] | listmonk                        | <https://listmonk.app/>                              | [listmonk]                                       |
+| [40] | Typebot                         | <https://typebot.io/>                                |                                                  |
+| [41] | ShareX                          | <https://getsharex.com/>                             | <https://github.com/ShareX/ShareX>               |
+| [42] | Thiral                          | <https://thiral.in/>                                 |                                                  |
+| [43] | Label Studio                    | <https://labelstud.io/>                              | [label-studio]                                   |
+| [44] | Google App Script               | <https://www.google.com/script/start/>               | [google-scripts]                                 |
+| [45] | PyLivestream                    |                                                      | [PyLivestream]                                   |
+| [46] | data.gov.in                     | <https://www.data.gov.in/>                           |                                                  |
+| [47] | Orange HRM                      | <https://www.orangehrm.com/>                         | <https://github.com/orangehrm/orangehrm>         |
+| [48] | UNA Community Management System | <https://unacms.com/>                                | <https://github.com/unacms/una>                  |
+| [49] | Faveo Helpdesk                  | <https://www.faveohelpdesk.com/>                     | [faveo-helpdesk]                                 |
+| [50] | WordPress                       | <https://wordpress.com/>                             | [Wordpress]                                      |
+| [51] | Siberiancms                     | <https://www.siberiancms.com>                        | [Siberian]                                       |
+| [52] | Google sheets                   | <https://zapier.com/blog/best-google-sheets-addons/> |                                                  |
+| [53] | Feng Office                     | <https://www.fengoffice.com/>                        | [fengoffice]                                     |
+| [54] | InkScape                        | <https://inkscape.org/>                              |                                                  |
+| [55] | Scribus                         | <https://www.scribus.net/>                           |                                                  |
+| [56] | Gimp                            | <https://www.gimp.org/>                              |                                                  |
 
+[17]: https://www.facebook.com/share/p/48PEh4EiqpEiYkTn/
+[18]: https://www.facebook.com/share/p/zGvWVPg245fBT4fT/
 [19]: https://www.facebook.com/share/p/c3rQm5WRrYR7Uk3Q/
 [20]: https://www.facebook.com/share/p/tmy3WZUGUPZJcyk9/
 [21]: https://www.facebook.com/share/p/Nozz7LFDJMVtQABR/
