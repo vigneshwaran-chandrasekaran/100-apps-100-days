@@ -2,6 +2,11 @@
 
 | Day  | App                             | Link                                                 | Source                                           |
 | ---- | ------------------------------- | ---------------------------------------------------- | ------------------------------------------------ |
+| [5]  | nodeRed                         | <https://nodered.org/>                               | <https://github.com/node-red>                    |
+| [6]  | Activepieces                    | <https://www.activepieces.com/>                      | <https://github.com/activepieces/activepieces>   |
+| [7]  | Rocket Chat                     | <https://www.rocket.chat/>                           | <https://github.com/RocketChat/Rocket.Chat>      |
+| [8]  | It-tools                        | <https://it-tools.tech/>                             | <https://github.com/CorentinTh/it-tools>         |
+| [9]  | Nocodb                          | <https://nocodb.com/>                                | <https://github.com/nocodb/nocodb>               |
 | [10] | n8n                             | <https://n8n.io/>                                    | <https://github.com/n8n-io/n8n>                  |
 | [11] | Answer                          | <https://answer.apache.org/>                         | <https://github.com/apache/incubator-answer>     |
 | [12] | Bagisto                         | <https://bagisto.com/en/>                            | <https://github.com/bagisto>                     |
@@ -50,6 +55,11 @@
 | [55] | Scribus                         | <https://www.scribus.net/>                           |                                                  |
 | [56] | Gimp                            | <https://www.gimp.org/>                              |                                                  |
 
+[5]: https://www.facebook.com/share/p/z66PwsMyg7Qhn5WB/
+[6]: https://www.facebook.com/share/p/rJVjDmChWhpvhXg5/
+[7]: https://www.facebook.com/share/p/9emqLuudbEp7mkEp/
+[8]: https://www.facebook.com/share/p/3p2BxYZKV8hh84KV/
+[9]: https://www.facebook.com/selva.murali/posts/pfbid025azn2F1hJ1jkE9DfzaMUrPcitfS6wUt33yksqU8iwqVwM6xfsxhwjhBnzUUG4g3zl
 [10]: https://www.facebook.com/share/p/62mady3QBK35ygTC/
 [11]: https://www.facebook.com/selva.murali/posts/pfbid024QQucy3EGxHaE8p9zVyqKXq47iipPUKu6kWNTUzNaf2aPDJWozjiwTThfw4VcRuGl
 [12]: https://www.facebook.com/selva.murali/posts/pfbid0JiJT2GAnPSE3WPGUJiYa5Ed1fWM9N5p8p1CYv9w7HbncQka5Fv3AfWFKbzi4TA2bl
