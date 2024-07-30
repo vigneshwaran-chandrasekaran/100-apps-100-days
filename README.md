@@ -60,8 +60,9 @@ Author [Selva Murali]
 | [54] | InkScape                        | <https://inkscape.org/>                              |                                                  |
 | [55] | Scribus                         | <https://www.scribus.net/>                           |                                                  |
 | [56] | Gimp                            | <https://www.gimp.org/>                              |                                                  |
+| [60] | QGIS                            | <https://qgis.org/>                                  | <https://github.com/qgis/QGIS>                   |
 
-[Selva Murali]:https://www.facebook.com/selva.murali
+[Selva Murali]: https://www.facebook.com/selva.murali
 [1]: https://www.facebook.com/share/p/3CZW2Cqc4Xks9Qym/
 [2]: https://www.facebook.com/share/p/6eyzLmN8ggXTJUAk/
 [3]: https://www.facebook.com/share/p/4dVsWUqsRcz4rVQR/
@@ -128,3 +129,4 @@ Author [Selva Murali]
 [Siberian]: https://github.com/Xtraball/Siberian
 [55]: https://www.facebook.com/share/p/4G21G4Ha6H3r4mWc/
 [56]: https://www.facebook.com/share/p/jrZEX9TduANXAxDa/
+[60]: https://www.facebook.com/share/p/x1qc7arZXc3Zuzjc/
