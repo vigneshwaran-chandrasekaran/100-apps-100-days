@@ -66,7 +66,9 @@ Author [Selva Murali]
 | [60] | QGIS                            | <https://qgis.org/>                                          | <https://github.com/qgis/QGIS>                       |
 | [61] | refugerestrooms                 | <https://www.refugerestrooms.org/>                           | <https://github.com/RefugeRestrooms/refugerestrooms> |
 | [62] | Matomo                          | <https://matomo.org/>                                        | <https://github.com/matomo-org/matomo>               |
-| [63] | Matomo                          | <https://www.adminer.org/en/>                                | <https://github.com/vrana/adminer/>                  |
+| [63] | Adminer                         | <https://www.adminer.org/en/>                                | <https://github.com/vrana/adminer/>                  |
+| [64] | CALCOM                          | <https://cal.com/>                                           | <https://github.com/calcom/cal.com>                  |
+| [65] | PhotoPrism                      | <https://www.photoprism.app/>                                | <https://github.com/photoprism/photoprism>           |
 
 [Selva Murali]: https://www.facebook.com/selva.murali
 [1]: https://www.facebook.com/share/p/3CZW2Cqc4Xks9Qym/
@@ -142,3 +144,5 @@ Author [Selva Murali]
 [61]: https://www.facebook.com/share/p/S14WojN4jnoEiJbD/
 [62]: https://www.facebook.com/share/p/9M5XyfZn3MJRD2Jd/
 [63]: https://www.facebook.com/share/p/GiEfoH5SqQZPDJ9D/
+[64]: https://www.facebook.com/share/p/ZBnurFhTz3cQFuNG/
+[65]: https://www.facebook.com/share/p/Xk3RGvuXRbeSogVi/
