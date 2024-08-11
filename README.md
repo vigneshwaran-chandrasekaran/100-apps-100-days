@@ -69,6 +69,8 @@ Author [Selva Murali]
 | [63] | Adminer                         | <https://www.adminer.org/en/>                                | <https://github.com/vrana/adminer/>                  |
 | [64] | CALCOM                          | <https://cal.com/>                                           | <https://github.com/calcom/cal.com>                  |
 | [65] | PhotoPrism                      | <https://www.photoprism.app/>                                | <https://github.com/photoprism/photoprism>           |
+| [66] | தமிழா! - ThamiZha!              |                                                              | <https://github.com/thamizha>                        |
+| [67] | udhayam ⭐                      | <http://www.udhayam.in/>                                     | <https://github.com/photoprism/photoprism>           |
 
 [Selva Murali]: https://www.facebook.com/selva.murali
 [1]: https://www.facebook.com/share/p/3CZW2Cqc4Xks9Qym/
@@ -146,3 +148,5 @@ Author [Selva Murali]
 [63]: https://www.facebook.com/share/p/GiEfoH5SqQZPDJ9D/
 [64]: https://www.facebook.com/share/p/ZBnurFhTz3cQFuNG/
 [65]: https://www.facebook.com/share/p/Xk3RGvuXRbeSogVi/
+[66]: https://www.facebook.com/share/p/6zNVP6smq5t1YmG4/
+[67]: https://www.facebook.com/share/p/T2GKNH9yLU7UgyUx/
