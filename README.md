@@ -70,7 +70,7 @@ Author [Selva Murali]
 | [64] | CALCOM                          | <https://cal.com/>                                           | <https://github.com/calcom/cal.com>                  |
 | [65] | PhotoPrism                      | <https://www.photoprism.app/>                                | <https://github.com/photoprism/photoprism>           |
 | [66] | தமிழா! - ThamiZha!              |                                                              | <https://github.com/thamizha>                        |
-| [67] | udhayam ⭐                      | <http://www.udhayam.in/>                                     | <https://github.com/photoprism/photoprism>           |
+| [67] | Udhayam ⭐                      | <http://www.udhayam.in/>                                     |                                                      |
 
 [Selva Murali]: https://www.facebook.com/selva.murali
 [1]: https://www.facebook.com/share/p/3CZW2Cqc4Xks9Qym/
