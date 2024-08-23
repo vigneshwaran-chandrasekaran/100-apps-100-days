@@ -81,7 +81,8 @@ Author [Selva Murali]
 | [75] | TCExam                              | <https://tcexam.org/>                                        | <https://github.com/tecnickcom/tcexam>               |
 | [76] | ownCloud                            | <https://owncloud.dev/>                                      | <https://github.com/owncloud>                        |
 | [77] | Clipbucket                          | <https://clipbucket.com/>                                    |                                                      |
-| [78] | Mealie                          | <https://docs.mealie.io/>                                    | <https://github.com/mealie-recipes/mealie>           |
+| [78] | Mealie                              | <https://docs.mealie.io/>                                    | <https://github.com/mealie-recipes/mealie>           |
+| [79] | Twenty CRM                          | <https://twenty.com/>                                        | <https://github.com/twentyhq/twenty>                 |
 
 [Selva Murali]: https://www.facebook.com/selva.murali
 [1]: https://www.facebook.com/share/p/3CZW2Cqc4Xks9Qym/
@@ -172,3 +173,4 @@ Author [Selva Murali]
 [76]: https://www.facebook.com/share/p/JL1UypRRagWNwLsR/
 [77]: https://www.facebook.com/share/p/zR63TVTRqMh7u5wW/
 [78]: https://www.facebook.com/selva.murali/posts/pfbid0eQDYRMRhy1vxmaWBUDqsvCC3YFSwtpTHNqiFho7s6rj7vKQ4EoroPfL2LXJAND6cl
+[79]: https://www.facebook.com/share/p/68LytR8bQ7CEEaJQ/
