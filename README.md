@@ -84,7 +84,8 @@ Author [Selva Murali]
 | [78] | Mealie                              | <https://docs.mealie.io/>                                    | <https://github.com/mealie-recipes/mealie>           |
 | [79] | Twenty CRM                          | <https://twenty.com/>                                        | <https://github.com/twentyhq/twenty>                 |
 | [80] | Coursera                            | <https://www.coursera.org/>                                  |                                                      |
-| [81] | Restreamer                            | <https://docs.datarhei.com/restreamer>                       | <https://github.com/datarhei/restreamer>             |
+| [81] | Restreamer                          | <https://docs.datarhei.com/restreamer>                       | <https://github.com/datarhei/restreamer>             |
+| [82] | YAO                                 | <https://yaoapps.com/en-US>                                  | <https://github.com/datarhei/restreamer>             |
 
 [Selva Murali]: https://www.facebook.com/selva.murali
 [1]: https://www.facebook.com/share/p/3CZW2Cqc4Xks9Qym/
@@ -178,3 +179,4 @@ Author [Selva Murali]
 [79]: https://www.facebook.com/share/p/68LytR8bQ7CEEaJQ/
 [80]: https://www.facebook.com/share/p/9tr8X5wrR1R7bmz7/
 [81]: https://www.facebook.com/share/p/P8Uic5DnCE6eDm1z/
+[82]: https://www.facebook.com/share/p/eMdigLa23JBxpD12/
