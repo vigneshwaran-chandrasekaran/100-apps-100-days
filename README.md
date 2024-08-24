@@ -85,7 +85,7 @@ Author [Selva Murali]
 | [79] | Twenty CRM                          | <https://twenty.com/>                                        | <https://github.com/twentyhq/twenty>                 |
 | [80] | Coursera                            | <https://www.coursera.org/>                                  |                                                      |
 | [81] | Restreamer                          | <https://docs.datarhei.com/restreamer>                       | <https://github.com/datarhei/restreamer>             |
-| [82] | YAO                                 | <https://yaoapps.com/en-US>                                  | <https://github.com/datarhei/restreamer>             |
+| [82] | YAO                                 | <https://yaoapps.com/en-US>                                  | <https://github.com/YaoApp/yao>                      |
 
 [Selva Murali]: https://www.facebook.com/selva.murali
 [1]: https://www.facebook.com/share/p/3CZW2Cqc4Xks9Qym/
