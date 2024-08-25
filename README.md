@@ -86,6 +86,8 @@ Author [Selva Murali]
 | [80] | Coursera                            | <https://www.coursera.org/>                                  |                                                      |
 | [81] | Restreamer                          | <https://docs.datarhei.com/restreamer>                       | <https://github.com/datarhei/restreamer>             |
 | [82] | YAO                                 | <https://yaoapps.com/en-US>                                  | <https://github.com/YaoApp/yao>                      |
+| [83] | NVDA                                |                                                              | <https://github.com/nvaccess/nvda>                   |
+| [84] | Sheetrock                           | https://chriszarate.github.io/sheetrock/                     | <https://github.com/chriszarate/sheetrock>           |
 
 [Selva Murali]: https://www.facebook.com/selva.murali
 [1]: https://www.facebook.com/share/p/3CZW2Cqc4Xks9Qym/
@@ -181,3 +183,4 @@ Author [Selva Murali]
 [81]: https://www.facebook.com/share/p/P8Uic5DnCE6eDm1z/
 [82]: https://www.facebook.com/share/p/eMdigLa23JBxpD12/
 [83]: https://www.facebook.com/share/p/rdEwXfwU5b9GKVcp/
+[84]: https://www.facebook.com/share/p/B1XbATvDvWTqvgx9/
