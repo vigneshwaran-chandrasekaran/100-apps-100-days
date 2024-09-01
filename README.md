@@ -89,6 +89,7 @@ Author [Selva Murali]
 | [83] | NVDA                                |                                                              | <https://github.com/nvaccess/nvda>                   |
 | [84] | Sheetrock                           | <https://chriszarate.github.io/sheetrock/>                   | <https://github.com/chriszarate/sheetrock>           |
 | [85] | Fontforge                           | <https://fontforge.org/en-US/>                               | <https://github.com/fontforge>                       |
+| [86] | Moodle                              | <https://moodle.org/>                                        | <https://github.com/moodle/moodle>                   |
 
 [Selva Murali]: https://www.facebook.com/selva.murali
 [1]: https://www.facebook.com/share/p/3CZW2Cqc4Xks9Qym/
@@ -186,3 +187,4 @@ Author [Selva Murali]
 [83]: https://www.facebook.com/share/p/rdEwXfwU5b9GKVcp/
 [84]: https://www.facebook.com/share/p/B1XbATvDvWTqvgx9/
 [85]: https://www.facebook.com/share/p/uHvtaZuQAxzrG8H4/
+[86]: https://www.facebook.com/share/p/B4qjkqrtiSz31svD/
