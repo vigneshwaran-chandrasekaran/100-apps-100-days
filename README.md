@@ -91,7 +91,8 @@ Author [Selva Murali]
 | [85] | Fontforge                           | <https://fontforge.org/en-US/>                               | <https://github.com/fontforge>                       |
 | [86] | Moodle                              | <https://moodle.org/>                                        | <https://github.com/moodle/moodle>                   |
 | [87] | LinkStack                           | <https://linkstack.org/>                                     | <https://github.com/LinkStackOrg/LinkStack>          |
-| [88] | Searxng                           | <https://docs.searxng.org/>                                  | <https://github.com/searxng/searxng>                 |
+| [88] | Searxng                             | <https://docs.searxng.org/>                                  | <https://github.com/searxng/searxng>                 |
+| [89] | Kavita                              | <https://www.kavitareader.com/>                              | <https://github.com/Kareadita/Kavita>                |
 
 [Selva Murali]: https://www.facebook.com/selva.murali
 [1]: https://www.facebook.com/share/p/3CZW2Cqc4Xks9Qym/
@@ -192,3 +193,4 @@ Author [Selva Murali]
 [86]: https://www.facebook.com/share/p/B4qjkqrtiSz31svD/
 [87]: https://www.facebook.com/share/p/wPbrGAkzfKzgSq5C/
 [88]: https://www.facebook.com/share/p/77VRHGHaBFf62NS6/
+[89]: https://www.facebook.com/share/p/3LkHfViEH3YwKvbE/
