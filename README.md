@@ -95,6 +95,7 @@ Author [Selva Murali]
 | [89] | Kavita                              | <https://www.kavitareader.com/>                              | <https://github.com/Kareadita/Kavita>                 |
 | [90] | Blender                             | <https://www.blender.org/>                                   | <https://github.com/blender>                          |
 | [91] | revive-adserver                     | <https://www.revive-adserver.com/>                           | <https://github.com/revive-adserver/revive-adserver/> |
+| [92] | Jitsi Meet                          | <https://jitsi.org/meet>                                     | <https://github.com/jitsi/jitsi-meet>                 |
 
 [Selva Murali]: https://www.facebook.com/selva.murali
 [1]: https://www.facebook.com/share/p/3CZW2Cqc4Xks9Qym/
@@ -198,3 +199,4 @@ Author [Selva Murali]
 [89]: https://www.facebook.com/share/p/3LkHfViEH3YwKvbE/
 [90]: https://www.facebook.com/share/p/5UduEmbpaTfgUDCF/
 [91]: https://www.facebook.com/share/p/D14sEU3q6AH9zzvJ/
+[92]: https://www.facebook.com/share/p/QUGRhJL9eRGtCGyx/
