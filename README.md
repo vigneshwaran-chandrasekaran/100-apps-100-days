@@ -97,6 +97,7 @@ Author [Selva Murali]
 | [91] | revive-adserver                     | <https://www.revive-adserver.com/>                           | <https://github.com/revive-adserver/revive-adserver/> |
 | [92] | Jitsi Meet                          | <https://jitsi.org/meet>                                     | <https://github.com/jitsi/jitsi-meet>                 |
 | [93] | AppFlowy                            | <https://www.appflowy.io/>                                   | <https://github.com/AppFlowy-IO/AppFlowy>             |
+| [94] | Winlator                            | <https://winlator.org/>                                      | <https://github.com/brunodev85/winlator>              |
 
 [Selva Murali]: https://www.facebook.com/selva.murali
 [1]: https://www.facebook.com/share/p/3CZW2Cqc4Xks9Qym/
@@ -202,3 +203,4 @@ Author [Selva Murali]
 [91]: https://www.facebook.com/share/p/D14sEU3q6AH9zzvJ/
 [92]: https://www.facebook.com/share/p/QUGRhJL9eRGtCGyx/
 [93]: https://www.facebook.com/share/p/CEcqrHNTLSppPWLU/
+[94]: https://www.facebook.com/share/p/p8xgxL2gsMoDkV7a/
