@@ -2,103 +2,108 @@
 
 Author [Selva Murali]
 
-| Day  | App                                 | Link                                                         | Source                                                |
-| ---- | ----------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------- |
-| [1]  | SerpBear                            | <https://docs.serpbear.com/>                                 |                                                       |
-| [2]  | Appsmith                            | <https://www.appsmith.com/>                                  | <https://github.com/appsmithorg/appsmith>             |
-| [3]  | Baserow                             | <https://baserow.io/>                                        | <https://github.com/bram2w/baserow>                   |
-| [4]  | Chatwoot                            | <https://www.chatwoot.com/>                                  | <https://github.com/chatwoot/chatwoot>                |
-| [5]  | nodeRed                             | <https://nodered.org/>                                       | <https://github.com/node-red>                         |
-| [6]  | Activepieces                        | <https://www.activepieces.com/>                              | <https://github.com/activepieces/activepieces>        |
-| [7]  | Rocket Chat                         | <https://www.rocket.chat/>                                   | <https://github.com/RocketChat/Rocket.Chat>           |
-| [8]  | It-tools                            | <https://it-tools.tech/>                                     | <https://github.com/CorentinTh/it-tools>              |
-| [9]  | Nocodb                              | <https://nocodb.com/>                                        | <https://github.com/nocodb/nocodb>                    |
-| [10] | n8n                                 | <https://n8n.io/>                                            | <https://github.com/n8n-io/n8n>                       |
-| [11] | Answer                              | <https://answer.apache.org/>                                 | <https://github.com/apache/incubator-answer>          |
-| [12] | Bagisto                             | <https://bagisto.com/en/>                                    | <https://github.com/bagisto>                          |
-| [13] | Google Looker studio                | <https://lookerstudio.google.com/u/0/>                       |                                                       |
-| [14] | AdGuard Ad Blocker                  | <https://adguard.com/en/welcome.html>                        |                                                       |
-| [15] | Youtube video downloader            | <https://ytd.mstdn.social/>                                  | <https://github.com/Rudloff/alltube>                  |
-| [16] | clickhouse Analytical database      | <https://clickhouse.com/>                                    | <https://github.com/ClickHouse/ClickHouse>            |
-| [17] | Botpress                            | <https://botpress.com/>                                      | <https://github.com/botpress/botpress>                |
-| [18] | Change Detection                    | <https://changedetection.io/>                                | <https://github.com/dgtlmoon/changedetection.io>      |
-| [19] | directus                            | <https://directus.io/>                                       | <https://github.com/directus/directus>                |
-| [20] | Docuseal                            | <https://www.docuseal.co/>                                   | <https://github.com/docusealco/docuseal>              |
-| [21] | Tamilpesu                           | <https://tamilpesu.us/en/>                                   | <https://github.com/Ezhil-Language-Foundation>        |
-| [22] | Librechat                           | <https://www.librechat.ai/>                                  | <https://github.com/danny-avila/LibreChat>            |
-| [23] | ThingsBoard                         | <https://thingsboard.io/>                                    | <https://github.com/thingsboard/thingsboard>          |
-| [24] | SuiteCRM                            | <https://suitecrm.com/>                                      | <https://github.com/salesagility/SuiteCRM>            |
-| [25] | NASA Code A                         | <https://code.nasa.gov/>                                     | <https://github.com/nasa/code-nasa-gov>               |
-| [26] | Socioboard                          | <http://www.socioboard.org/>                                 | <https://github.com/socioboard/Socioboard-5.0>        |
-| [27] | Mautic                              | <https://www.mautic.org/>                                    | <https://github.com/mautic/mautic>                    |
-| [28] | OBS Studio                          | <https://obsproject.com/>                                    | <https://github.com/obsproject/obs-studio>            |
-| [29] | SubtitleEdit                        | <https://www.nikse.dk/subtitleedit>                          | <https://github.com/SubtitleEdit>                     |
-| [30] | ODOO ERP                            | <https://www.odoo.com/>                                      | <https://github.com/odoo/odoo>                        |
-| [31] | Ampache                             | <https://ampache.org/>                                       | <https://github.com/ampache/ampache>                  |
-| [32] | Audacity                            | <https://www.audacityteam.org/>                              | <https://github.com/audacity>                         |
-| [33] | Dolibarr ERP - CRM                  | <https://www.dolistore.com/en/>                              | <https://github.com/Dolibarr/dolibarr>                |
-| [34] | ExifCleaner                         | <https://exifcleaner.com/>                                   |                                                       |
-| [35] | keepass                             | <https://keepass.info/>                                      |                                                       |
-| [36] | Tamil Fonts                         | [tamilfonts]                                                 | [neechalkaran]                                        |
-| [37] | streamlabs                          | <https://streamlabs.com/>                                    | <https://github.com/stream-labs/desktop>              |
-| [38] | seopanel                            | <https://www.seopanel.org/>                                  |                                                       |
-| [39] | listmonk                            | <https://listmonk.app/>                                      | [listmonk]                                            |
-| [40] | Typebot                             | <https://typebot.io/>                                        |                                                       |
-| [41] | ShareX                              | <https://getsharex.com/>                                     | <https://github.com/ShareX/ShareX>                    |
-| [42] | Thiral                              | <https://thiral.in/>                                         |                                                       |
-| [43] | Label Studio                        | <https://labelstud.io/>                                      | [label-studio]                                        |
-| [44] | Google App Script                   | <https://www.google.com/script/start/>                       | [google-scripts]                                      |
-| [45] | PyLivestream                        |                                                              | [PyLivestream]                                        |
-| [46] | data.gov.in                         | <https://www.data.gov.in/>                                   |                                                       |
-| [47] | Orange HRM                          | <https://www.orangehrm.com/>                                 | <https://github.com/orangehrm/orangehrm>              |
-| [48] | UNA Community Management System     | <https://unacms.com/>                                        | <https://github.com/unacms/una>                       |
-| [49] | Faveo Helpdesk                      | <https://www.faveohelpdesk.com/>                             | [faveo-helpdesk]                                      |
-| [50] | WordPress                           | <https://wordpress.com/>                                     | [Wordpress]                                           |
-| [51] | Siberiancms                         | <https://www.siberiancms.com>                                | [Siberian]                                            |
-| [52] | Google sheets                       | <https://zapier.com/blog/best-google-sheets-addons/>         |                                                       |
-| [53] | Feng Office                         | <https://www.fengoffice.com/>                                | [fengoffice]                                          |
-| [54] | InkScape                            | <https://inkscape.org/>                                      |                                                       |
-| [55] | Scribus                             | <https://www.scribus.net/>                                   |                                                       |
-| [56] | Gimp                                | <https://www.gimp.org/>                                      |                                                       |
-| [57] | libreoffice, openoffice             | <https://www.libreoffice.org/> <https://www.openoffice.org/> |                                                       |
-| [58] | Hammond                             | vehicle expense tracking system                              | <https://github.com/akhilrex/hammond>                 |
-| [59] | synfig                              | <https://www.synfig.org/>                                    | <https://github.com/synfig/synfig/>                   |
-| [60] | QGIS                                | <https://qgis.org/>                                          | <https://github.com/qgis/QGIS>                        |
-| [61] | refugerestrooms                     | <https://www.refugerestrooms.org/>                           | <https://github.com/RefugeRestrooms/refugerestrooms>  |
-| [62] | Matomo                              | <https://matomo.org/>                                        | <https://github.com/matomo-org/matomo>                |
-| [63] | Adminer                             | <https://www.adminer.org/en/>                                | <https://github.com/vrana/adminer/>                   |
-| [64] | CALCOM                              | <https://cal.com/>                                           | <https://github.com/calcom/cal.com>                   |
-| [65] | PhotoPrism                          | <https://www.photoprism.app/>                                | <https://github.com/photoprism/photoprism>            |
-| [66] | தமிழா! - ThamiZha!                  |                                                              | <https://github.com/thamizha>                         |
-| [67] | Udhayam ⭐                          | <http://www.udhayam.in/>                                     |                                                       |
-| [68] | தமிழ்க்கணிமைக்குப் பணியாற்றுபவர்கள் |                                                              |                                                       |
-| [69] | Kaniyam Foundation                  |                                                              | <https://github.com/KaniyamFoundation>                |
-| [70] | Neechalkaran                        | <https://oss.neechalkaran.com/works/>                        |                                                       |
-| [71] | valluvar vallalar vattam            | <https://valluvarvallalarvattam.com/>                        |                                                       |
-| [72] | Invoiceninja                        | <https://invoiceninja.com/>                                  | <https://github.com/invoiceninja/invoiceninja>        |
-| [73] | Penpot                              | <https://penpot.app/>                                        | <https://github.com/penpot/penpot>                    |
-| [74] | Comodo Antivirus                    | <https://antivirus.comodo.com/free-antivirus.php>            |                                                       |
-| [75] | TCExam                              | <https://tcexam.org/>                                        | <https://github.com/tecnickcom/tcexam>                |
-| [76] | ownCloud                            | <https://owncloud.dev/>                                      | <https://github.com/owncloud>                         |
-| [77] | Clipbucket                          | <https://clipbucket.com/>                                    |                                                       |
-| [78] | Mealie                              | <https://docs.mealie.io/>                                    | <https://github.com/mealie-recipes/mealie>            |
-| [79] | Twenty CRM                          | <https://twenty.com/>                                        | <https://github.com/twentyhq/twenty>                  |
-| [80] | Coursera                            | <https://www.coursera.org/>                                  |                                                       |
-| [81] | Restreamer                          | <https://docs.datarhei.com/restreamer>                       | <https://github.com/datarhei/restreamer>              |
-| [82] | YAO                                 | <https://yaoapps.com/en-US>                                  | <https://github.com/YaoApp/yao>                       |
-| [83] | NVDA                                |                                                              | <https://github.com/nvaccess/nvda>                    |
-| [84] | Sheetrock                           | <https://chriszarate.github.io/sheetrock/>                   | <https://github.com/chriszarate/sheetrock>            |
-| [85] | Fontforge                           | <https://fontforge.org/en-US/>                               | <https://github.com/fontforge>                        |
-| [86] | Moodle                              | <https://moodle.org/>                                        | <https://github.com/moodle/moodle>                    |
-| [87] | LinkStack                           | <https://linkstack.org/>                                     | <https://github.com/LinkStackOrg/LinkStack>           |
-| [88] | Searxng                             | <https://docs.searxng.org/>                                  | <https://github.com/searxng/searxng>                  |
-| [89] | Kavita                              | <https://www.kavitareader.com/>                              | <https://github.com/Kareadita/Kavita>                 |
-| [90] | Blender                             | <https://www.blender.org/>                                   | <https://github.com/blender>                          |
-| [91] | revive-adserver                     | <https://www.revive-adserver.com/>                           | <https://github.com/revive-adserver/revive-adserver/> |
-| [92] | Jitsi Meet                          | <https://jitsi.org/meet>                                     | <https://github.com/jitsi/jitsi-meet>                 |
-| [93] | AppFlowy                            | <https://www.appflowy.io/>                                   | <https://github.com/AppFlowy-IO/AppFlowy>             |
-| [94] | Winlator                            | <https://winlator.org/>                                      | <https://github.com/brunodev85/winlator>              |
-| [95] | Postiz                              | <https://postiz.com/>                                        | <https://github.com/gitroomhq/postiz-app>             |
+| Day   | App                                 | Link                                                         | Source                                                |
+| ----- | ----------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------- |
+| [1]   | SerpBear                            | <https://docs.serpbear.com/>                                 |                                                       |
+| [2]   | Appsmith                            | <https://www.appsmith.com/>                                  | <https://github.com/appsmithorg/appsmith>             |
+| [3]   | Baserow                             | <https://baserow.io/>                                        | <https://github.com/bram2w/baserow>                   |
+| [4]   | Chatwoot                            | <https://www.chatwoot.com/>                                  | <https://github.com/chatwoot/chatwoot>                |
+| [5]   | nodeRed                             | <https://nodered.org/>                                       | <https://github.com/node-red>                         |
+| [6]   | Activepieces                        | <https://www.activepieces.com/>                              | <https://github.com/activepieces/activepieces>        |
+| [7]   | Rocket Chat                         | <https://www.rocket.chat/>                                   | <https://github.com/RocketChat/Rocket.Chat>           |
+| [8]   | It-tools                            | <https://it-tools.tech/>                                     | <https://github.com/CorentinTh/it-tools>              |
+| [9]   | Nocodb                              | <https://nocodb.com/>                                        | <https://github.com/nocodb/nocodb>                    |
+| [10]  | n8n                                 | <https://n8n.io/>                                            | <https://github.com/n8n-io/n8n>                       |
+| [11]  | Answer                              | <https://answer.apache.org/>                                 | <https://github.com/apache/incubator-answer>          |
+| [12]  | Bagisto                             | <https://bagisto.com/en/>                                    | <https://github.com/bagisto>                          |
+| [13]  | Google Looker studio                | <https://lookerstudio.google.com/u/0/>                       |                                                       |
+| [14]  | AdGuard Ad Blocker                  | <https://adguard.com/en/welcome.html>                        |                                                       |
+| [15]  | Youtube video downloader            | <https://ytd.mstdn.social/>                                  | <https://github.com/Rudloff/alltube>                  |
+| [16]  | clickhouse Analytical database      | <https://clickhouse.com/>                                    | <https://github.com/ClickHouse/ClickHouse>            |
+| [17]  | Botpress                            | <https://botpress.com/>                                      | <https://github.com/botpress/botpress>                |
+| [18]  | Change Detection                    | <https://changedetection.io/>                                | <https://github.com/dgtlmoon/changedetection.io>      |
+| [19]  | directus                            | <https://directus.io/>                                       | <https://github.com/directus/directus>                |
+| [20]  | Docuseal                            | <https://www.docuseal.co/>                                   | <https://github.com/docusealco/docuseal>              |
+| [21]  | Tamilpesu                           | <https://tamilpesu.us/en/>                                   | <https://github.com/Ezhil-Language-Foundation>        |
+| [22]  | Librechat                           | <https://www.librechat.ai/>                                  | <https://github.com/danny-avila/LibreChat>            |
+| [23]  | ThingsBoard                         | <https://thingsboard.io/>                                    | <https://github.com/thingsboard/thingsboard>          |
+| [24]  | SuiteCRM                            | <https://suitecrm.com/>                                      | <https://github.com/salesagility/SuiteCRM>            |
+| [25]  | NASA Code A                         | <https://code.nasa.gov/>                                     | <https://github.com/nasa/code-nasa-gov>               |
+| [26]  | Socioboard                          | <http://www.socioboard.org/>                                 | <https://github.com/socioboard/Socioboard-5.0>        |
+| [27]  | Mautic                              | <https://www.mautic.org/>                                    | <https://github.com/mautic/mautic>                    |
+| [28]  | OBS Studio                          | <https://obsproject.com/>                                    | <https://github.com/obsproject/obs-studio>            |
+| [29]  | SubtitleEdit                        | <https://www.nikse.dk/subtitleedit>                          | <https://github.com/SubtitleEdit>                     |
+| [30]  | ODOO ERP                            | <https://www.odoo.com/>                                      | <https://github.com/odoo/odoo>                        |
+| [31]  | Ampache                             | <https://ampache.org/>                                       | <https://github.com/ampache/ampache>                  |
+| [32]  | Audacity                            | <https://www.audacityteam.org/>                              | <https://github.com/audacity>                         |
+| [33]  | Dolibarr ERP - CRM                  | <https://www.dolistore.com/en/>                              | <https://github.com/Dolibarr/dolibarr>                |
+| [34]  | ExifCleaner                         | <https://exifcleaner.com/>                                   |                                                       |
+| [35]  | keepass                             | <https://keepass.info/>                                      |                                                       |
+| [36]  | Tamil Fonts                         | [tamilfonts]                                                 | [neechalkaran]                                        |
+| [37]  | streamlabs                          | <https://streamlabs.com/>                                    | <https://github.com/stream-labs/desktop>              |
+| [38]  | seopanel                            | <https://www.seopanel.org/>                                  |                                                       |
+| [39]  | listmonk                            | <https://listmonk.app/>                                      | [listmonk]                                            |
+| [40]  | Typebot                             | <https://typebot.io/>                                        |                                                       |
+| [41]  | ShareX                              | <https://getsharex.com/>                                     | <https://github.com/ShareX/ShareX>                    |
+| [42]  | Thiral                              | <https://thiral.in/>                                         |                                                       |
+| [43]  | Label Studio                        | <https://labelstud.io/>                                      | [label-studio]                                        |
+| [44]  | Google App Script                   | <https://www.google.com/script/start/>                       | [google-scripts]                                      |
+| [45]  | PyLivestream                        |                                                              | [PyLivestream]                                        |
+| [46]  | data.gov.in                         | <https://www.data.gov.in/>                                   |                                                       |
+| [47]  | Orange HRM                          | <https://www.orangehrm.com/>                                 | <https://github.com/orangehrm/orangehrm>              |
+| [48]  | UNA Community Management System     | <https://unacms.com/>                                        | <https://github.com/unacms/una>                       |
+| [49]  | Faveo Helpdesk                      | <https://www.faveohelpdesk.com/>                             | [faveo-helpdesk]                                      |
+| [50]  | WordPress                           | <https://wordpress.com/>                                     | [Wordpress]                                           |
+| [51]  | Siberiancms                         | <https://www.siberiancms.com>                                | [Siberian]                                            |
+| [52]  | Google sheets                       | <https://zapier.com/blog/best-google-sheets-addons/>         |                                                       |
+| [53]  | Feng Office                         | <https://www.fengoffice.com/>                                | [fengoffice]                                          |
+| [54]  | InkScape                            | <https://inkscape.org/>                                      |                                                       |
+| [55]  | Scribus                             | <https://www.scribus.net/>                                   |                                                       |
+| [56]  | Gimp                                | <https://www.gimp.org/>                                      |                                                       |
+| [57]  | libreoffice, openoffice             | <https://www.libreoffice.org/> <https://www.openoffice.org/> |                                                       |
+| [58]  | Hammond                             | vehicle expense tracking system                              | <https://github.com/akhilrex/hammond>                 |
+| [59]  | synfig                              | <https://www.synfig.org/>                                    | <https://github.com/synfig/synfig/>                   |
+| [60]  | QGIS                                | <https://qgis.org/>                                          | <https://github.com/qgis/QGIS>                        |
+| [61]  | refugerestrooms                     | <https://www.refugerestrooms.org/>                           | <https://github.com/RefugeRestrooms/refugerestrooms>  |
+| [62]  | Matomo                              | <https://matomo.org/>                                        | <https://github.com/matomo-org/matomo>                |
+| [63]  | Adminer                             | <https://www.adminer.org/en/>                                | <https://github.com/vrana/adminer/>                   |
+| [64]  | CALCOM                              | <https://cal.com/>                                           | <https://github.com/calcom/cal.com>                   |
+| [65]  | PhotoPrism                          | <https://www.photoprism.app/>                                | <https://github.com/photoprism/photoprism>            |
+| [66]  | தமிழா! - ThamiZha!                  |                                                              | <https://github.com/thamizha>                         |
+| [67]  | Udhayam ⭐                          | <http://www.udhayam.in/>                                     |                                                       |
+| [68]  | தமிழ்க்கணிமைக்குப் பணியாற்றுபவர்கள் |                                                              |                                                       |
+| [69]  | Kaniyam Foundation                  |                                                              | <https://github.com/KaniyamFoundation>                |
+| [70]  | Neechalkaran                        | <https://oss.neechalkaran.com/works/>                        |                                                       |
+| [71]  | valluvar vallalar vattam            | <https://valluvarvallalarvattam.com/>                        |                                                       |
+| [72]  | Invoiceninja                        | <https://invoiceninja.com/>                                  | <https://github.com/invoiceninja/invoiceninja>        |
+| [73]  | Penpot                              | <https://penpot.app/>                                        | <https://github.com/penpot/penpot>                    |
+| [74]  | Comodo Antivirus                    | <https://antivirus.comodo.com/free-antivirus.php>            |                                                       |
+| [75]  | TCExam                              | <https://tcexam.org/>                                        | <https://github.com/tecnickcom/tcexam>                |
+| [76]  | ownCloud                            | <https://owncloud.dev/>                                      | <https://github.com/owncloud>                         |
+| [77]  | Clipbucket                          | <https://clipbucket.com/>                                    |                                                       |
+| [78]  | Mealie                              | <https://docs.mealie.io/>                                    | <https://github.com/mealie-recipes/mealie>            |
+| [79]  | Twenty CRM                          | <https://twenty.com/>                                        | <https://github.com/twentyhq/twenty>                  |
+| [80]  | Coursera                            | <https://www.coursera.org/>                                  |                                                       |
+| [81]  | Restreamer                          | <https://docs.datarhei.com/restreamer>                       | <https://github.com/datarhei/restreamer>              |
+| [82]  | YAO                                 | <https://yaoapps.com/en-US>                                  | <https://github.com/YaoApp/yao>                       |
+| [83]  | NVDA                                |                                                              | <https://github.com/nvaccess/nvda>                    |
+| [84]  | Sheetrock                           | <https://chriszarate.github.io/sheetrock/>                   | <https://github.com/chriszarate/sheetrock>            |
+| [85]  | Fontforge                           | <https://fontforge.org/en-US/>                               | <https://github.com/fontforge>                        |
+| [86]  | Moodle                              | <https://moodle.org/>                                        | <https://github.com/moodle/moodle>                    |
+| [87]  | LinkStack                           | <https://linkstack.org/>                                     | <https://github.com/LinkStackOrg/LinkStack>           |
+| [88]  | Searxng                             | <https://docs.searxng.org/>                                  | <https://github.com/searxng/searxng>                  |
+| [89]  | Kavita                              | <https://www.kavitareader.com/>                              | <https://github.com/Kareadita/Kavita>                 |
+| [90]  | Blender                             | <https://www.blender.org/>                                   | <https://github.com/blender>                          |
+| [91]  | revive-adserver                     | <https://www.revive-adserver.com/>                           | <https://github.com/revive-adserver/revive-adserver/> |
+| [92]  | Jitsi Meet                          | <https://jitsi.org/meet>                                     | <https://github.com/jitsi/jitsi-meet>                 |
+| [93]  | AppFlowy                            | <https://www.appflowy.io/>                                   | <https://github.com/AppFlowy-IO/AppFlowy>             |
+| [94]  | Winlator                            | <https://winlator.org/>                                      | <https://github.com/brunodev85/winlator>              |
+| [95]  | Postiz                              | <https://postiz.com/>                                        | <https://github.com/gitroomhq/postiz-app>             |
+| [96]  | Dawarich                            | <https://dawarich.app/>                                      | <https://github.com/Freika/dawarich>                  |
+| [97]  | Pimcore                             | <https://pimcore.com/en>                                     | <https://github.com/pimcore/pimcore>                  |
+| [98]  | 2FAuth                              | <https://docs.2fauth.app/>                                   | <https://github.com/Bubka/2FAuth>                     |
+| [99]  | Jellyfin                            | <https://jellyfin.org/>                                      | <https://github.com/jellyfin/jellyfin>                |
+| [100] | Tamilvu                             | <https://www.tamilvu.org/ta>                                 |                                                       |
 
 [Selva Murali]: https://www.facebook.com/selva.murali
 [1]: https://www.facebook.com/share/p/3CZW2Cqc4Xks9Qym/
@@ -206,3 +211,8 @@ Author [Selva Murali]
 [93]: https://www.facebook.com/share/p/CEcqrHNTLSppPWLU/
 [94]: https://www.facebook.com/share/p/p8xgxL2gsMoDkV7a/
 [95]: https://www.facebook.com/share/p/4uC7HqpR5zPfZrzh/
+[96]: https://www.facebook.com/share/p/VU8PKrwXG9HycKSs/
+[97]: https://www.facebook.com/share/p/bJcv83aGMRwMFtEF/
+[98]: https://www.facebook.com/share/p/GLF6jC9afEg5hc1V/
+[99]: https://www.facebook.com/share/p/t1nZXrwZ7XuZwzez/
+[100]: https://www.facebook.com/share/p/aFw64AQQrHDkwDQD/
